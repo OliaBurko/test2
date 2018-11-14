@@ -1,0 +1,9 @@
+# You shouldn't edit these files, as they're generated automatically from ccxt.js by build scripts.
+#
+.ftpconfig
+.remote-sync.json
+vendor/*
+telebot/vendor/*
+composer.lock
+!.gitignore
+!.gitkeep
